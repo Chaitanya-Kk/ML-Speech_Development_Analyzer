@@ -47,10 +47,6 @@ To run this project, you need the following dependencies:
    cd repository_name  
    ```  
 
-3. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
 
 ---
 
