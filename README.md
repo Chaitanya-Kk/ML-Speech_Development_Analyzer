@@ -100,4 +100,4 @@ Contributions are welcome! If you wish to improve this project or report any iss
 ---
 
 ## License  
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Unlicense](LICENSE).
